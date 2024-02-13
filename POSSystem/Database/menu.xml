@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><menuItems>
+	<menuItem>
+		<menuId>1</menuId>
+		<menuName>닭발</menuName>
+		<category>안주류</category>
+		<price>15000</price>
+		<cookTime>5:00</cookTime>
+		<productImage>menu1</productImage>
+		<description>석쇠닭발＋치킨무＋파채＋떡튀김＋꿀＋특제청양마요소스 </description>
+	</menuItem>
+	<menuItem>
+		<menuId>2</menuId>
+		<menuName>메밀전병</menuName>
+		<category>안주류</category>
+		<price>14000</price>
+		<cookTime>8:00</cookTime>
+		<productImage>menu2</productImage>
+		<description>메밀전병2p ＋ 양배추샐러드 ＋ 소스</description>
+	</menuItem>
+	<menuItem>
+		<menuId>3</menuId>
+		<menuName>갈릭버터포테이토</menuName>
+		<category>안주류</category>
+		<price>17000</price>
+		<cookTime>3:00</cookTime>
+		<productImage>menu3</productImage>
+		<description>바삭한 감자튀김에 갈릭버터를 얹은 메뉴</description>
+	</menuItem>
+	<menuItem>
+		<menuId>4</menuId>
+		<menuName>라멘</menuName>
+		<category>국물류</category>
+		<price>12000</price>
+		<cookTime>4:00</cookTime>
+		<productImage>menu4</productImage>
+		<description>챠슈가 올라간 라멘</description>
+	</menuItem>
+	<menuItem>
+		<menuId>5</menuId>
+		<menuName>얼큰김치칼국수</menuName>
+		<category>국물류</category>
+		<price>16000</price>
+		<cookTime>4:00</cookTime>
+		<productImage>menu5</productImage>
+		<description>얼큰한 칼국수</description>
+	</menuItem>
+	<menuItem>
+		<menuId>6</menuId>
+		<menuName>마라탕</menuName>
+		<category>국물류</category>
+		<price>20000</price>
+		<cookTime>4:00</cookTime>
+		<productImage>menu6</productImage>
+		<description>숙주,알배기or얼갈이,청경채,푸주,팽이버섯,목이버섯,중국당면,유부,비엔나,완자2알</description>
+	</menuItem>
+	<menuItem>
+		<menuId>7</menuId>
+		<menuName>짬뽕</menuName>
+		<category>국물류</category>
+		<price>16000</price>
+		<cookTime>2:00</cookTime>
+		<productImage>menu7</productImage>
+		<description>얼큰한 짬뽕</description>
+	</menuItem>
+	<menuItem>
+		<menuId>8</menuId>
+		<menuName>텐동</menuName>
+		<category>덮밥류</category>
+		<price>20000</price>
+		<cookTime>2:00</cookTime>
+		<productImage>menu8</productImage>
+		<description>바삭한 튀김이 올라간 텐동</description>
+	</menuItem>
+	<menuItem>
+		<menuId>9</menuId>
+		<menuName>처음처럼</menuName>
+		<category>주류</category>
+		<price>5000</price>
+		<cookTime>2:00</cookTime>
+		<productImage>menu9</productImage>
+		<description>처음처럼</description>
+	</menuItem>
+	<menuItem>
+		<menuId>10</menuId>
+		<menuName>참이슬</menuName>
+		<category>주류</category>
+		<price>5000</price>
+		<cookTime>2:00</cookTime>
+		<productImage>menu10</productImage>
+		<description>참이슬</description>
+	</menuItem>
+	<menuItem>
+		<menuId>11</menuId>
+		<menuName>칭따오</menuName>
+		<category>주류</category>
+		<price>5000</price>
+		<cookTime>2:00</cookTime>
+		<productImage>menu11</productImage>
+		<description>칭따오</description>
+	</menuItem>
+	<menuItem>
+		<menuId>12</menuId>
+		<menuName>대선</menuName>
+		<category>주류</category>
+		<price>5000</price>
+		<cookTime>2:00</cookTime>
+		<productImage>menu12</productImage>
+		<description>대선</description>
+	</menuItem>
+	<menuItem>
+		<menuId>13</menuId>
+		<menuName>카스</menuName>
+		<category>주류</category>
+		<price>5000</price>
+		<cookTime>2:00</cookTime>
+		<productImage>menu13</productImage>
+		<description>카스</description>
+	</menuItem>
+	<menuItem>
+		<menuId>14</menuId>
+		<menuName>얼그레이 하이볼</menuName>
+		<category>주류</category>
+		<price>7000</price>
+		<cookTime>2:00</cookTime>
+		<productImage>menu14</productImage>
+		<description>하이볼</description>
+	</menuItem>
+		<menuItem>
+		<menuId>15</menuId>
+		<menuName>새우튀김</menuName>
+		<category>안주류</category>
+		<price>19000</price>
+		<cookTime>2:00</cookTime>
+		<productImage>menu15</productImage>
+		<description>통새우를 바로 튀긴 새우튀김</description>
+	</menuItem>
+		<menuItem>
+		<menuId>16</menuId>
+		<menuName>스테이크 덮밥</menuName>
+		<category>덮밥류</category>
+		<price>23000</price>
+		<cookTime>2:00</cookTime>
+		<productImage>menu16</productImage>
+		<description>부채살을 구워 밥에 올린 스테이크</description>
+	</menuItem>
+</menuItems>
